@@ -10,14 +10,10 @@ Curabitur a condimentum ligula eget.
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
 
-## Post title
-![post-image](https://placekitten.com/600/400)
+{% for post in site.posts %}
+        
+## {{ post.title }}
+![post.image](https://placekitten.com/600/400)
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit... **&rarr;**
 
-## Post title
-![post-image](https://placekitten.com/600/400)
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit... **&rarr;**
-
-## Post title
-![post-image](https://placekitten.com/600/400)
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit... **&rarr;**
+{% endfor %}
