@@ -6,9 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper mal
 
 Curabitur a condimentum ligula eget.
 
-### [Home](https://okoseoglu.github.io) |
-### [About](https://okoseoglu.github.io/about) |
-### [Works](https://okoseoglu.github.io/works)
+[Home](https://okoseoglu.github.io) |
+[About](https://okoseoglu.github.io/about) |
+[Works](https://okoseoglu.github.io/works)
 
 {% for post in site.posts %}
 ## {{ post.title }}
