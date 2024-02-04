@@ -2,9 +2,9 @@
 
 ## Site name
 
-[home](https://okoseoglu.github.io)
-[about](https://okoseoglu.github.io/about)
-[works](https://okoseoglu.github.io/works)
+[Home](https://okoseoglu.github.io) |
+[About](https://okoseoglu.github.io/about) |
+[Works](https://okoseoglu.github.io/works)
 
 ### Post title
 
