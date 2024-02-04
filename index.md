@@ -10,7 +10,7 @@ Curabitur a condimentum ligula eget.
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
 
-{% for post in site.post %}
+{% for post in site.posts %}
 {{ post.title }}
 ![{{ post.title }}]({{ post.image }})
 {{ post.content | strip_html | truncatewords: 25 }} → 
