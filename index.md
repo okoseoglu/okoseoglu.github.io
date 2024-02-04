@@ -6,8 +6,10 @@ Curabitur a condimentum ligula eget.
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
 
+## Featured work
+
 {% for post in site.posts %}
-## {{ post.title }}
+### {{ post.title }}
 ![{{ post.title }}]({{ post.image }})
 <p>{{ post.excerpt | truncatewords: 20 }} →</p>
 {% endfor %}
