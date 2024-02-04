@@ -1,12 +1,12 @@
 {% include header.html %}
 
-## Site name
+# Site name
 
 [Home](https://okoseoglu.github.io) |
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
 
-### Post title
+## Post title
 
 ![post-image](https://placekitten.com/600/400)
 
