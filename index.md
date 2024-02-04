@@ -13,7 +13,7 @@ Curabitur a condimentum ligula eget.
 {% for post in site.posts %}
         
 ## {{ post.title }}
-![post.image](https://placekitten.com/600/400)
+![{{ post.title }}]({{ post.image }})
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit... **&rarr;**
 
 {% endfor %}
