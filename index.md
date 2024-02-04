@@ -11,9 +11,7 @@ Curabitur a condimentum ligula eget.
 [Works](https://okoseoglu.github.io/works)
 
 {% for post in site.posts %}
-        
 ## {{ post.title }}
 ![{{ post.title }}]({{ post.image }})
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit... **&rarr;**
-
+### {{ post.content }} **&rarr;**
 {% endfor %}
