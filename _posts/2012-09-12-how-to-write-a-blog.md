@@ -1,5 +1,5 @@
 ---
-title: sdfsdfsfsdf
+title: Sdfsdfsfsdf
 image: https://placekitten.com/600/400
 ---
 
