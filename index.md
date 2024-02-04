@@ -1,7 +1,3 @@
----
-layout: home
----
-
 {% include header.html %}
 
 # Oğul Köseoğlu
@@ -13,3 +9,9 @@ Curabitur a condimentum ligula eget.
 [Home](https://okoseoglu.github.io) |
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
+
+{% for post in site.post %}
+{{ post.title }}
+![{{ post.title }}]({{ post.image }})
+{{ post.content | strip_html | truncatewords: 25 }} → 
+{% endfor %}
