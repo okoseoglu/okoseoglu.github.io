@@ -13,5 +13,5 @@ Curabitur a condimentum ligula eget.
 {% for post in site.posts %}
 ## {{ post.title }}
 ![{{ post.title }}]({{ post.image }})
-<p>{{ post.content | strip_html | truncatewords: 25 }} →</p>
+<p>{{ post.excerpt }} →</p>
 {% endfor %}
