@@ -1,7 +1,3 @@
-{% include header.html %}
-
-# Oğul Köseoğlu
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit.
 
 Curabitur a condimentum ligula eget.
