@@ -9,7 +9,7 @@ Curabitur a condimentum ligula eget.
 ## Featured work
 
 {% for post in site.posts %}
-{% if post.tags contains featured %}
+{% if post.tags contains 'journalism' %}
 <h3>{{ post.title }}</h3>
 <img alt="{{ post.title }}" src="{{ post.image }}" />
 <p>{{ post.excerpt | truncatewords: 20 }} →</p>
