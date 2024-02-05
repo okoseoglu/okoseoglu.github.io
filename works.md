@@ -1,3 +1,7 @@
+[Home](https://okoseoglu.github.io) |
+[About](https://okoseoglu.github.io/about) |
+Works
+
 # Works
 
 {% for post in site.posts %}
