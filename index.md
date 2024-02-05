@@ -1,10 +1,10 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit.
-
-Curabitur a condimentum ligula eget.
-
 Home |
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit.
+
+Curabitur a condimentum ligula eget.
 
 ## Featured work
 
