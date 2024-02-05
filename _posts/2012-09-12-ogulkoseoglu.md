@@ -1,6 +1,6 @@
 ---
 title: Oğul Köseoğlu
-image: https://placekitten.com/400/400
+image: https://placekitten.com/200/200
 tags: about
 ---
 
