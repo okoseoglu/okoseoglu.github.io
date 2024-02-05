@@ -1,5 +1,5 @@
 ---
-title: Sdfsdfsfsdf
+title: First post
 image: https://placekitten.com/600/400
 tags: human-rights
 ---
