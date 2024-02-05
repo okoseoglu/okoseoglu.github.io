@@ -2,7 +2,7 @@
 [About](https://okoseoglu.github.io/about) |
 Works
 
-# Works
+## Works
 
 {% for post in site.posts %}
 {% if post.tags contains 'work' %}
