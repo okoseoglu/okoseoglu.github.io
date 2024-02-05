@@ -1,3 +1,2 @@
 title: Oğul Köseoğlu
-exclude:
-  - assets/javascript/anchor-js
+theme: false
