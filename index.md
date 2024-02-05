@@ -9,7 +9,7 @@ Curabitur a condimentum ligula eget.
 ## Featured work
 
 {% for post in site.posts %}
-### {{ post.title }}
-![{{ post.title }}]({{ post.image }})
+<h3>{{ post.title }}</h3>
+<img alt="{{ post.title }}" src="{{ post.image }}" />
 <p>{{ post.excerpt | truncatewords: 20 }} →</p>
 {% endfor %}
