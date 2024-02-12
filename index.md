@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 Home |
 [About](https://okoseoglu.github.io/about) |
 [Works](https://okoseoglu.github.io/works)
