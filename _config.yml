@@ -1,4 +1,4 @@
 title: Oğul Köseoğlu
 plugins:
   - jekyll-remote-theme
-remote_theme: benbalter/retlab
+remote_theme: broccolini/athena
