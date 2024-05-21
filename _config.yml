@@ -1,2 +1,4 @@
 title: Oğul Köseoğlu
-theme: jekyll-athena
+plugins:
+  - jekyll-remote-theme
+remote_theme: benbalter/retlab
