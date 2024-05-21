@@ -33,6 +33,9 @@
         </div>
       </header>
 
+            <div class="container mx-auto px-2 py-2">
+
+
 ## Featured work
 
 {% for post in site.posts %}
@@ -42,7 +45,7 @@
 <p>{{ post.excerpt | truncatewords: 20 }} →</p>
 {% endif %}
 {% endfor %}      
-
+            </div>
   </body>
 
 </html>
