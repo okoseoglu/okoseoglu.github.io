@@ -1,6 +1,9 @@
-[Home](https://okoseoglu.github.io) |
-[About](https://okoseoglu.github.io/about) |
-Works
+---
+layout: category_index
+title: Works
+permalink: /works/
+category_name: works
+---
 
 ## Works
 
