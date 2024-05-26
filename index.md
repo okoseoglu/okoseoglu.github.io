@@ -6,7 +6,6 @@ description: Translator and interpreter based in Turkey, providing services in E
 
 {% include header.html %}
 {% include featured.html %}
-{% include services.html %}
 {% include about.html %}
 {% include references.html %}
 {% include contact.html %}
