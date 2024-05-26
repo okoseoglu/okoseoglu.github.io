@@ -3,4 +3,4 @@ description: Translator and interpreter based in Turkey, providing services in E
 
 plugins:
 - jekyll-remote-theme
-remote_theme: broccolini/athena
+remote_theme: wowthemesnet/mundana-theme-jekyll
