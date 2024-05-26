@@ -2,9 +2,7 @@
 layout: home
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit.
-
-Curabitur a condimentum ligula eget.
+Translator and interpreter based in Turkey, providing services in English and Turkish. I mainly focus on [human rights law](#), [journalism](#), [social theory](#), and [literature](#). Experienced localization linguist. Notary certified legal translator. Bachelor of letters. Reader. Chess player.
 
 ## Featured work
 
