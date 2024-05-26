@@ -8,8 +8,7 @@ Translator and interpreter based in Turkey, providing services in English and Tu
 
 {% for post in site.posts %}
 {% if post.tags contains 'featured' %}
+<img src="{{ post.image }}" />
 <h3>{{ post.title }}</h3>
-<img alt="{{ post.title }}" src="{{ post.image }}" />
-<p>{{ post.excerpt | truncatewords: 20 }} →</p>
 {% endif %}
 {% endfor %}
