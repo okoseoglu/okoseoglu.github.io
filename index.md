@@ -6,9 +6,16 @@ Translator and interpreter based in Turkey, providing services in English and Tu
 
 ## Featured work
 
-{% for post in site.posts %}
-{% if post.tags contains 'featured' %}
-<img src="{{ post.image }}" />
-<h3>{{ post.title }}</h3>
-{% endif %}
-{% endfor %}
+{% include featured.html %}
+
+## Services
+{% include services.html %}
+
+## About
+{% include about.html %}
+
+## References
+{% include references.html %}
+
+## Contact
+{% include contact.html %}
