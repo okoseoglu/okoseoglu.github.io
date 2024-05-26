@@ -1,12 +1,14 @@
 ## Featured work
-<div class="post">
+
 {% for post in site.posts %}
+<div class="post">
 {% if post.tags contains 'featured' %}
 <img src="{{ post.image }}" />
 <h3>{{ post.title }}</h3>
+</div>
 {% endif %}
 {% endfor %}
-</div>
+
 
 <style>
   .post {max-width:40%; display:inline-block;}
