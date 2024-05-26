@@ -1,5 +1,6 @@
 ## Featured work
 
+<div class="grid-container">
 {% for post in site.posts %}
 <div class="post">
 {% if post.tags contains 'featured' %}
@@ -8,8 +9,9 @@
 </div>
 {% endif %}
 {% endfor %}
+</div>
 
 
 <style>
-  .post {display:inline-block;}
+  .grid-container {display:grid;grid-template-columns:1fr 1fr;}
 </style>
