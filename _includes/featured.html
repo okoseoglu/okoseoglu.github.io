@@ -2,15 +2,14 @@
 
 <div class="grid-container">
 {% for post in site.posts %}
-<div class="post">
 {% if post.tags contains 'featured' %}
+<div class="post">
 <img src="{{ post.image }}" />
 <h3>{{ post.title }}</h3>
 </div>
 {% endif %}
 {% endfor %}
 </div>
-
 
 <style>
   .grid-container {display:grid;grid-template-columns:1fr 1fr;}
