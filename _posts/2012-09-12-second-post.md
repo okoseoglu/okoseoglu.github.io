@@ -1,7 +1,7 @@
 ---
-title: Sdfsdfsfsdf
-image: https://placekitten.com/600/400
+title: Translations of two Nâzım Hikmet's poems "In the Snowy Beech Forest" and "On Living" to be published in the Poetry Magazine
+image: img/poetry.png
 tags: literature featured work 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper malesuada libero et tincidunt. Donec suscipit nisi nec leo molestie elementum id et elit.
+asdasdasdasd
