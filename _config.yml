@@ -1,11 +1,7 @@
 title: Oğul Köseoğlu
 description: Translator and interpreter based in Turkey, providing services in English and Turkish. I mainly focus on human rights law, journalism, social theory, and literature. Experienced localization linguist. Notary certified legal translator. Bachelor of Letters. Reader. Chess player.
 
-remote_theme: chesterhow/tale
+# plugins:
+#  - jekyll-remote-theme
 
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
+# remote_theme: chesterhow/tale
