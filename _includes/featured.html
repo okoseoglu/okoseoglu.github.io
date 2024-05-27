@@ -5,7 +5,7 @@
 {% if post.tags contains 'featured' %}
 <div class="post">
 <img src="{{ post.image }}" />
-<h3>{{ post.title }}</h3>
+<h3 style="text-align: left;">{{ post.title }}</h3>
 </div>
 {% endif %}
 {% endfor %}
@@ -19,7 +19,4 @@
     grid-column-gap: 1rem;
 }
     }
-
-  .post h3 {
-    text-align: left;}
 </style>
