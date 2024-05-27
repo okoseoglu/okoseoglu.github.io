@@ -1,7 +1,5 @@
 ---
 layout: home
-title: Oğul Köseoğlu
-description: Translator and interpreter based in Turkey, providing services in English and Turkish.
 ---
 
 {% include header.html %}
