@@ -12,7 +12,11 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
 <a href="{{ site.url }}"><h1>{{ site.title }} | Home</h1></a>
-      
+
+<style>
+  h1 {color:black;}
+</style>
+    <h2>{{ post.title }}</h2>
       {{ content }}
       {% include contact.html %}
       {% include footer.html %}
