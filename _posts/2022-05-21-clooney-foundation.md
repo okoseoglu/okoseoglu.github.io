@@ -3,3 +3,12 @@ title: <a href="https://cfj.org/" target="_blank">Clooney Foundation for Justice
 image: img/cfj.png
 tags: law featured work 
 ---
+
+Amal Clooney and George Clooney founded the <i>Clooney Foundation for Justice</i> in 2016 <i>"because we believe in a world where human rights are protected and no one is above the law.</i>
+
+<i>Justice, like war, must be waged; it doesn’t just happen on its own. So we gather evidence of mass human rights abuses, provide free legal support to victims and work to ensure that perpetrators are held to account. The fight for justice has some difficult foes and we are staring down some alarming global trends.</i>
+
+<i>Since it was founded CFJ has grown every year, and now works in more than 40 countries. We are actively investigating war crimes in Ukraine, monitoring sham trials targeting women and journalists and fighting against a global trend of authoritarianism that seeks to punish those who speak truth to power."</i>
+
+<img src="https://cfj.org/wp-content/uploads/2023/07/Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf">
+<img src="https://cfj.org/wp-content/uploads/2020/08/Turkish_Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf">
