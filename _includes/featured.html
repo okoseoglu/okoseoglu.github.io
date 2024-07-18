@@ -4,7 +4,7 @@
 {% for post in site.posts %}
 {% if post.tags contains 'featured' %}
 <div class="post">
-<a href="{{ post.url }}<img style="margin-bottom:0;padding-bottom:0;" src="{{ post.image }}" /></a>
+<a href="{{ post.url }}"><img style="margin-bottom:0;padding-bottom:0;" src="{{ post.image }}" /></a>
 <h3 style="text-align:left;margin-top:0;padding-top:0;">{{ post.title }}</h3>
 </div>
 {% endif %}
