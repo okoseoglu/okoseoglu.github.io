@@ -4,7 +4,7 @@ image: img/cfj.png
 tags: law featured work 
 ---
 
-Amal Clooney and George Clooney founded the <i>Clooney Foundation for Justice</i> in 2016 <i>"because we believe in a world where human rights are protected and no one is above the law.</i>
+Amal Clooney and George Clooney founded the <a href="https://cfj.org/" target="_blank"><i>Clooney Foundation for Justice</i></a> in 2016 <i>"because we believe in a world where human rights are protected and no one is above the law.</i>
 
 <i>Justice, like war, must be waged; it doesn’t just happen on its own. So we gather evidence of mass human rights abuses, provide free legal support to victims and work to ensure that perpetrators are held to account. The fight for justice has some difficult foes and we are staring down some alarming global trends.</i>
 
