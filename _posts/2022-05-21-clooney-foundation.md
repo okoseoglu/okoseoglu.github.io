@@ -10,5 +10,5 @@ Amal Clooney and George Clooney founded the <a href="https://cfj.org/" target="_
 
 <i>Since it was founded CFJ has grown every year, and now works in more than 40 countries. We are actively investigating war crimes in Ukraine, monitoring sham trials targeting women and journalists and fighting against a global trend of authoritarianism that seeks to punish those who speak truth to power."</i>
 
-<img src="https://cfj.org/wp-content/uploads/2023/07/Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf" width="45%" style="float:left;" />
+<img src="https://cfj.org/wp-content/uploads/2023/07/Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf" width="45%" style="float:left;margin-right:1rem;" />
 <img src="https://cfj.org/wp-content/uploads/2020/08/Turkish_Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf" width="45%" />
