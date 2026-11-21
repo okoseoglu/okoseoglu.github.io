@@ -29,7 +29,17 @@ a:hover { text-decoration: none; }
 .about .post, .references .post { text-align: center; }
 .about .post p, .references .post p { text-align: left; }
 .circle { width: 10rem; height: 10rem; object-fit: cover; border-radius: 100%; }
-.post-image { max-width: 100%; height: auto; }
+.post-hero { position: relative; margin-bottom: 1.5rem; }
+.post-hero img { display: block; width: 100%; height: auto; }
+.post-hero h1 {
+  position: absolute; left: 0; right: 0; bottom: 0; margin: 0;
+  padding: 3rem 1.25rem 1.25rem; border: 0;
+  font-size: 1.75rem; line-height: 1.2; color: #fff;
+  background: linear-gradient(to top, rgba(0,0,0,.8), rgba(0,0,0,0));
+  text-shadow: 0 1px 3px rgba(0,0,0,.6);
+}
+.post-hero h1 a { color: #fff; text-decoration: underline; }
+@media (min-width: 640px) { .post-hero h1 { font-size: 2.25rem; padding: 4rem 2rem 2rem; } }
 
 .site-footer { margin-top: 2rem; text-align: right; color: #6a737d; font-size: .9rem; font-style: italic; }
 .site-footer a { color: #6a737d; }
