@@ -1,16 +1,5 @@
-{% assign tr = false %}{% if page.lang == 'tr' %}{% assign tr = true %}{% endif %}
-<p class="lang-switch">
-  {% if tr %}<a href="{{ '/' | relative_url }}" hreflang="en" lang="en">English</a> · Türkçe{% else %}English · <a href="{{ '/tr/' | relative_url }}" hreflang="tr" lang="tr">Türkçe</a>{% endif %}
-</p>
 <h1 class="site-title">{{ site.title }}</h1>
-{% if tr %}
-<h3>Türkiye merkezli çevirmen ve tercüman — İngilizce ve Türkçe hizmet veriyorum.</h3>
-<p>Ağırlıklı olarak <strong>insan hakları hukuku</strong>, <strong>gazetecilik</strong>, <strong>toplumsal kuram</strong> ve <strong>edebiyat</strong> alanlarında çalışıyorum.<br>
-Deneyimli <strong>yerelleştirme dilbilimcisi</strong>. <strong>Noter yeminli</strong> hukuki çevirmen.
-Edebiyat lisansı. Okur. Satranç oyuncusu.</p>
-{% else %}
 <h3>{{ site.description }}</h3>
 <p>I mainly focus on <strong>human rights law</strong>, <strong>journalism</strong>, <strong>social theory</strong>, and <strong>literature</strong>.<br>
 Experienced <strong>localization linguist</strong>. <strong>Notary certified</strong> legal translator.
 Bachelor of letters. Reader. Chess player.</p>
-{% endif %}

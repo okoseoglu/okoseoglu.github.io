@@ -14,7 +14,6 @@
 
       {% if page.image %}<img class="post-image" src="{{ page.image | relative_url }}" alt="" width="1000" height="637">{% endif %}
       <h1>{{ page.html_title | default: page.title }}</h1>
-      <p class="post-meta">{{ page.date | date: "%Y" }}</p>
       {{ content }}
 
       {% include contact.html %}

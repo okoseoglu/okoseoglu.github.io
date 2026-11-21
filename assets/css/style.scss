@@ -35,14 +35,3 @@ a:hover { text-decoration: none; }
 .site-footer a { color: #6a737d; }
 .site-footer svg { height: 1em; width: 1em; vertical-align: -.125em; fill: currentColor; }
 .site-footer img { height: 16px; vertical-align: middle; }
-
-.consent {
-  position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
-  background: #fff; border-top: 1px solid #d1d5da; padding: .75rem 1rem;
-  display: none; gap: 1rem; align-items: center; flex-wrap: wrap;
-  box-shadow: 0 -2px 8px rgba(0,0,0,.08);
-}
-.consent.show { display: flex; }
-.consent p { margin: 0; flex: 1 1 18rem; }
-.consent button { font-size: 1rem; padding: .3rem .9rem; border: 1px solid #d1d5da; border-radius: 6px; background: #f6f8fa; cursor: pointer; }
-.consent button.primary { background: #d9381e; border-color: #d9381e; color: #fff; }

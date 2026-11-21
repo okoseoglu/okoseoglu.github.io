@@ -1,4 +1,4 @@
-<h2>{% if page.lang == 'tr' %}Öne çıkan işler{% else %}Featured work{% endif %}</h2>
+<h2>Featured work</h2>
 
 <div class="grid-container">
 {% for post in site.posts %}
@@ -6,7 +6,6 @@
 <div class="post">
 <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}"><img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" width="1000" height="637" loading="lazy"></a>
 <h3 style="text-align:left;margin-top:0;padding-top:0;">{{ post.html_title | default: post.title }}</h3>
-<p class="post-meta">{{ post.date | date: "%Y" }}</p>
 </div>
 {% endif %}
 {% endfor %}
