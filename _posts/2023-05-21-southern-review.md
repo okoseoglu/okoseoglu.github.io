@@ -1,7 +1,10 @@
 ---
-title: Oktay Rifat’s poem <a href="https://muse.jhu.edu/pub/236/article/900977/pdf" target="_blank"><i>Starry View</i></a> published in <a href="https://thesouthernreview.org](https://thesouthernreview.org/issues/detail/Summer-2023/265/" target="_blank"><i>The Southern Review</i></a>
-image: img/sr.png
-tags: literature featured work 
+title: "Oktay Rifat’s poem Starry View published in The Southern Review"
+html_title: >-
+  Oktay Rifat’s poem <a href="https://muse.jhu.edu/pub/236/article/900977/pdf" target="_blank"><i>Starry View</i></a> published in <a href="https://thesouthernreview.org/issues/detail/Summer-2023/265/" target="_blank"><i>The Southern Review</i></a>
+layout: post
+image: /img/sr.webp
+tags: literature featured work
 ---
 
 Oktay Rifat’s poem <a href="https://muse.jhu.edu/pub/236/article/900977/pdf" target="_blank"><i>Starry View</i></a>, co-translated with <a href="https://www.lydiasthost.com/" target="_blank">Lydia Host</a>, published in <a href="https://thesouthernreview.org/issues/detail/Summer-2023/265/" target="_blank"><i>The Southern Review</i></a> in their Summer 2023 issue.

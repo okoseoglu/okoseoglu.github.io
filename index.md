@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+title: English–Turkish Legal & Literary Translator and Interpreter
 ---
 
 {% include header.html %}

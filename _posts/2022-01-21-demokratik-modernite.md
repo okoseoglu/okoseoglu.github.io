@@ -1,6 +1,9 @@
 ---
-title: <a href="https://demokratikmodernite.org/the-idea-of-revolution-yesterday-today-and-tomorrow/" target="_blank"><i>The Idea of Revolution&colon; Yesterday, Today and Tomorrow</i></a> by Étienne Balibar
-image: img/dm.png
+title: "The Idea of Revolution: Yesterday, Today and Tomorrow by Étienne Balibar"
+html_title: >-
+  <a href="https://demokratikmodernite.org/the-idea-of-revolution-yesterday-today-and-tomorrow/" target="_blank"><i>The Idea of Revolution&colon; Yesterday, Today and Tomorrow</i></a> by Étienne Balibar
+layout: post
+image: /img/dm.webp
 tags: featured work
 ---
 
