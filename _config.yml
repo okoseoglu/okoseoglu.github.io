@@ -1,3 +1,15 @@
-title: Ogul Koseoglu
-description: Translator and interpreter based in Turkey, providing services in English and Turkish.
-permalink: none
+title: Oğul Köseoğlu
+description: Translator and interpreter based in Turkey, providing English–Turkish legal, literary and human rights translation and interpreting services.
+url: https://ogulkoseoglu.com
+lang: en
+logo: /img/ok.webp
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

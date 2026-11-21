@@ -1,7 +1,10 @@
 ---
-title: <a href="https://cfj.org/" target="_blank">Clooney Foundation for Justice</a> <i>TrialWatch</i> <a href="https://cfj.org/reports/turkey-vs-ahmet-tuna-altinel/" target="_blank">Fairness Report</a> on the case of Academic for Peace <a href="https://cfj.org/wp-content/uploads/2020/08/Turkish_Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf" target="_blank">Tuna Altınel</a>
-image: img/cfj.png
-tags: law featured work 
+title: "Clooney Foundation for Justice TrialWatch Fairness Report on the case of Academic for Peace Tuna Altınel"
+html_title: >-
+  <a href="https://cfj.org/" target="_blank">Clooney Foundation for Justice</a> <i>TrialWatch</i> <a href="https://cfj.org/reports/turkey-vs-ahmet-tuna-altinel/" target="_blank">Fairness Report</a> on the case of Academic for Peace <a href="https://cfj.org/wp-content/uploads/2020/08/Turkish_Fairness-Report-on-the-Trial-of-Tuna-Altinel-in-Turkey.pdf" target="_blank">Tuna Altınel</a>
+layout: post
+image: /img/cfj.webp
+tags: law featured work
 ---
 
 Amal Clooney and George Clooney founded the <a href="https://cfj.org/" target="_blank"><i>Clooney Foundation for Justice</i></a> in 2016 <i>"because we believe in a world where human rights are protected and no one is above the law.</i>
