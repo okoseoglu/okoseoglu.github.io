@@ -6,6 +6,7 @@ lang: en
 logo: /img/ok.webp
 theme: jekyll-theme-primer
 plugins:
+  - jekyll-sitemap
   - jekyll-seo-tag
 permalink: /:title.html
 defaults:

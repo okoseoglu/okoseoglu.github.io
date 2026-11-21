@@ -1,8 +1,9 @@
 ---
 title: "Stories by TV4’s Terese Cristiansson from the disaster zone in Turkey"
 html_title: >-
-  Stories by <a href="https://www.tv4.se" target="_blank">TV4</a>’s <a href="https://www.tv4.se/terese-cristiansson" target="_blank">Terese Cristiansson</a> from the <a href="https://www.tv4play.se/klipp/a53bfe199093d05c442a" target="_blank">disaster zone in Turkey</a>
+  Stories by <a href="https://www.tv4.se">TV4</a>’s <a href="https://www.tv4.se/terese-cristiansson">Terese Cristiansson</a> from the <a href="https://www.tv4play.se/klipp/a53bfe199093d05c442a">disaster zone in Turkey</a>
 layout: post
+description: "Stories by TV4 correspondent Terese Cristiansson from the earthquake disaster zone in Turkey, reported with Oğul Köseoğlu as interpreter and researcher."
 image: /img/teresecristianssontv4.webp
 tags: journalism featured work
 ---
