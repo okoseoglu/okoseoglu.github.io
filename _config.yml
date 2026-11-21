@@ -6,7 +6,7 @@ logo: /img/ok.webp
 theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
-permalink: /:title/
+permalink: /:title.html
 defaults:
   - scope:
       path: ""
